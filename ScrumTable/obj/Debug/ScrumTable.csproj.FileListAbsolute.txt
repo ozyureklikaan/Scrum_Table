@@ -1,0 +1,10 @@
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\ScrumTable.csprojAssemblyReference.cache
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\WindowsFormsApp1.FormScrum.resources
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\ScrumTable.csproj.GenerateResource.cache
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\ScrumTable.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ozyur\Desktop\ScrumTable\ScrumTable\obj\Debug\WindowsFormsApp1.pdb
